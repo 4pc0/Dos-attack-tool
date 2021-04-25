@@ -6,5 +6,5 @@ INSTALL
 
 1- git clone https://github.com/4pc0/Dos-attack-tool.git
 2- cd Dos-attack-tool
-3- pip -m install -r requirements.txt
+3- pip install -r requirements.txt
 4- ./xod.py
